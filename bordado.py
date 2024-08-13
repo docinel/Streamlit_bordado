@@ -7,7 +7,6 @@ st.set_page_config(
 )
 
 # Acessar a pasta contendo as imagens
-os.chdir(r'C:\Users\rodrigo.docinel\Documents\Streamlit_bordado')
 local = os.getcwd()
 
 # Caminho para as imagens
